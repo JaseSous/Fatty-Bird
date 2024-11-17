@@ -13,5 +13,7 @@ Phiên bản mới nhất: v1.1.0
 - Đã thêm nút thoát game
 - Đã thêm tính năng mới: Kỉ lục cá nhân
 - Đã làm lại màn hình "gameover"
+- Màn hình "gameover" sẽ không còn bị skip do người chơi vô tình spam nút Space quá nhanh
 - Đã gán thêm nút Chuột trái làm nút nhảy
+- Sửa lỗi hình ảnh cột bị kéo giãn
 - Đã fix các lỗi nhỏ
